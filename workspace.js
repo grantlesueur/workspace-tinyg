@@ -1071,7 +1071,7 @@ cpdefine("inline:com-chilipeppr-workspace-tinyg", ["chilipeppr_ready"], function
                         var that = this;
                         chilipeppr.load(
                             "#com-chilipeppr-ws-superTouchplate",
-                            "http://raw.githubusercontent.com/grantlesueur/widget-super-touchplate/auto-generated-widget.html",
+                            "https://raw.githubusercontent.com/grantlesueur/widget-super-touchplate/master/auto-generated-widget.html",
                             //"http://raw.githubusercontent.com/PyroAVR/widget-super-touchplate/master/auto-generated-widget.html",
                             // "http://raw.githubusercontent.com/PyroAVR/widget-super-touchplate/tabs/auto-generated-widget.html",
                             function() {
