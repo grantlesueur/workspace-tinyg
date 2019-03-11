@@ -1031,7 +1031,7 @@ cpdefine("inline:com-chilipeppr-workspace-tinyg", ["chilipeppr_ready"], function
             //End Touch Plate
 
             // Super Touch Plate
-            // http://raw.githubusercontent.com/PyroAVR/widget-super-touchplate/master/auto-generated-widget.html
+            // https://raw.githubusercontent.com/grantlesueur/widget-super-touchplate/master/auto-generated-widget.html
             // Dynamically load, i.e. wait til user clicks on the button first time.
             this.superTouchPlateObj = function() {
                 return {
